@@ -1,7 +1,4 @@
-import Home from '~/pages/Home';
-import Following from '~/pages/Following';
-import Upload from '~/pages/Upload';
-import Search from '~/pages/Search';
+import { Home, Following, Search, Upload } from '~/pages';
 import { OnlyHeader } from '~/components/Layout';
 
 const publicRoutes = [
