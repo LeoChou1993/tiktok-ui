@@ -1,1 +1,1 @@
-export { default } from '~/components/Popper/Wrapper';
+export { default as Wrapper } from '~/components/Popper/Wrapper';
